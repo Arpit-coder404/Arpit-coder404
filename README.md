@@ -88,13 +88,6 @@ Modern developer portfolio built with **Next.js** and deployed on **Vercel**.
 
 🔗 https://arpitpujani.vercel.app
 
----
-
-### 🛡️ OWASP Thapar Student Chapter Website
-
-Contributing to the official website for the OWASP Thapar Student Chapter.
-
----
 
 ### 🔐 AI-Powered Browser Security Extension
 
