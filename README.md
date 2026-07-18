@@ -118,7 +118,7 @@ Developing a browser extension that helps detect phishing websites using AI-driv
 
 <a href="https://arpitpujani.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/arpit-pujani-139b9738a/">💼 LinkedIn</a> •
-<a href="mailto:aadipujaniL@gmail.com">📧 Email</a>
+<a href="mailto:aadipujani@gmail.com">📧 Email</a>
 
 </p>
 
